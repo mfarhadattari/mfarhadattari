@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mfarhad.attari.qadari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mfarhad.attari.qadari" height="30" width="40" /></a>
- <a href="mailto:mfarhad.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mfarhad.attari.qadari" height="30" width="40" /></a>
+ <a href="mailto:mfarhad.dev@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://www.flaticon.com/free-icon/gmail_281769?related_id=281786&origin=search)" alt="mfarhad.attari.qadari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

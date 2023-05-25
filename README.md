@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mfarhad.attari.qadari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mfarhad.attari.qadari" height="30" width="40" /></a>
+<a href="https://fb.com/mfarhad.attari.qadari" target="blank"><img align="center" src="./icon/facebook.png" alt="mfarhad.attari.qadari" height="30" width="40" /></a>
  <a href="mailto:mfarhad.dev@gmail.com" target="blank"><img align="center" src="./icon/gmail.png" alt="mfarhad.attari.qadari" height="30" width="40" /></a>
 </p>
 

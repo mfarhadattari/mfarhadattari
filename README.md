@@ -5,7 +5,7 @@
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=mfarhadattari&label=Profile%20views&color=0e75b6&style=flat" alt="mfarhadattari" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/mfarhadattari/mfarhadattari/main/hi.gif" width="50px" height="50px">, I'm Mohammad Farhad</h1>  
-<h3 align="center">A MERN Stack Developer from Bangladesh</h3>  
+<h2 align="center">A MERN Stack Developer from Bangladesh</h2>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfarhadattari&" alt="mfarhadattari" /></p>
 <br>
 

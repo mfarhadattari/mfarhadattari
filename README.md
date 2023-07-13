@@ -6,7 +6,7 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=mfarhadattari&label=Profile%20views&color=0e75b6&style=flat" alt="mfarhadattari" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/mfarhadattari/mfarhadattari/main/hi.gif" width="50px" height="50px">, I'm Mohammad Farhad</h1>  
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfarhadattari&" alt="mfarhadattari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfarhadattari&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mfarhadattari" /></p>
 <br>
 
 <p align="center"> <a href="https://github.com/mfarhadattari/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfarhadattari&row=1&column=3&theme=onedark" alt="mfarhadattari" /></a> </p>

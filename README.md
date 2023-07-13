@@ -3,7 +3,6 @@
  
 <img width="100%" src="https://raw.githubusercontent.com/mfarhadattari/mfarhadattari/main/banner.jpg" alt="cover" />
 </div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=mfarhadattari&label=Profile%20views&color=0e75b6&style=flat" alt="mfarhadattari" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/mfarhadattari/mfarhadattari/main/hi.gif" width="50px" height="50px">, I'm Mohammad Farhad</h1>  
 <h3 align="center">A MERN Stack Developer from Bangladesh</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfarhadattari&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mfarhadattari" /></p>
@@ -11,7 +10,7 @@
 
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mfarhadattari/mfarhadattari/main/laptop.gif" />
 
 - 🌱 I’m currently learning JavaScript.
 - 📫 Reach me at **mfarhad.dev@gmail.com**

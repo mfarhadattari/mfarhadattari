@@ -18,7 +18,10 @@
 <h2>Reach me out  <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <br />
 
-[<p align="center"><img height="75" src="images/icons/Linkedin.png">](https://www.linkedin.com/in/mfarhad-dev)[<img height="75" src="images/icons/Facebook.png">](https://www.facebook.com/mfarhad.attari.qadari)
+<p align="center">
+ <a href="https://www.linkedin.com/in/mfarhad-dev"><img height="75" src="images/icons/Linkedin.png"></a>
+ <a href="https://www.facebook.com/mfarhad.attari.qadari"><img height="75" src="images/icons/Facebook.png"></a>
+</p>
 <br>
 
 <h2>Technologies that I know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>

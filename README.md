@@ -20,7 +20,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mfarhad-dev"><img height="75" src="images/icons/Linkedin.png"></a>
- <a href="https://www.facebook.com/mfarhad.attari.qadari"><img height="75" src="images/icons/Facebook.png"></a>
+ <a href="https://www.facebook.com/mfarhad.jns.dev"><img height="75" src="images/icons/Facebook.png"></a>
 </p>
 <br>
 
